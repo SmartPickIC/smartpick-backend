@@ -1,4 +1,5 @@
 # SmartPick Backend
+![image](https://github.com/user-attachments/assets/e1345ae0-6425-4ad0-8fe3-38f831785f42)
 
 태블릿 제품 추천 AI 챗봇 서비스의 백엔드 서버입니다.
 
